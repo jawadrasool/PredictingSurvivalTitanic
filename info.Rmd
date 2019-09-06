@@ -11,8 +11,8 @@ The dataset used in this work is available at:
 
 For prediction, I made use of a random forests model. 
 
-For more details view source on GitHub: 
+For more details view source on the following GitHub repository: 
 
-<https://www.github.com>.
+<https://github.com/jawadrasool/PredictingSurvivalTitanic>.
 
 This app is created as part of the Coursera course "Developing Data Products" (<https://www.coursera.org/learn/data-products/>). 
