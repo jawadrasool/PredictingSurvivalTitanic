@@ -1,4 +1,4 @@
-Predicting Chances of Survival in Titanic Disaster
+# Predicting Chances of Survival in Titanic Disaster
 
 This repository contains code for the shiny app which predicts chances of survival in Titanic disaster.
 
