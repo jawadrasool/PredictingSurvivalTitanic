@@ -1,0 +1,18 @@
+---
+title: "About this App"
+output: html_document
+---
+
+This is a Shiny app that tries to predict the chances of survival in Titanic crash using a prediction model.
+
+The dataset used in this work is available at: 
+
+<https://www.kaggle.com/c/titanic/data>.
+
+For prediction, I made use of a random forests model. 
+
+For more details view source on GitHub: 
+
+<https://www.github.com>.
+
+This app is created as part of the Coursera course "Developing Data Products" (<https://www.coursera.org/learn/data-products/>). 
